@@ -10,7 +10,7 @@ You may have tried to build a hybrid app package for Windows Phone, and found ou
 
 **This how-to will teach you how to do the following:**
 
-* Create a Windows Phone app package.
+* Create a Windows Phone app package
 
 ## 2 Prerequisites
 
@@ -42,9 +42,9 @@ To create a Phonegap Build package using a provided template, follow these steps
             version   = "1.0.0" >
 
         <name>My Sample App</name>
-
+    
         <description>The Sample WP8 App</description>
-
+    
         .....{% endhighlight %}
 4. Save the file.
 5. Open the `index.html` file and change the {% raw %}`{{url}}`{% endraw %} to the address where your application is
