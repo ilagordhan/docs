@@ -6,7 +6,7 @@ tags: []
 
 ## 1 Introduction
 
-This how-to explains how to eliminate design time warnings. While these warnings will not cause the application to break, it is important to fix them to keep a clean project.
+This how-to explains how to eliminate design time warnings. While these warnings may not cause the application to break, it is important to fix them to keep a clean project.
 
 **After using this how-to, you will know how to do the following:**  
 
